@@ -53,7 +53,7 @@
 ![HTML](https://img.shields.io/badge/code-html-E34F26?logo=html5&logoWidth=30&labelColor=black&style=for-the-badge)
 &emsp;
 ![CSS](https://img.shields.io/badge/code-css-1572B6?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=1572B6)
-&emsp;
+&ensp;
 ![Pug](https://raw.githubusercontent.com/ridays2001/ridays2001/main/media/pug.svg)
 &emsp;
 ![PHP](https://img.shields.io/badge/code-php-777BB4?logoWidth=30&labelColor=black&style=for-the-badge&logo=php)
@@ -69,16 +69,15 @@
 
 ![Firebase DB](https://img.shields.io/badge/db-firebase-FFCA28?logoWidth=30&labelColor=black&style=for-the-badge&logo=firebase)
 &emsp;
-![SQL](https://img.shields.io/badge/db-sql-336791?logoWidth=30&labelColor=black&style=for-the-badge&logo=postgresql&logoColor=336791)
-&emsp;
+![SQL](https://img.shields.io/badge/db-sql-336791?logoWidth=30&labelColor=black&style=for-the-badge&logo=postgresql)
 
 <p style='line-height:0.4em'>
     <br>
 </p>
 
-![ESLint][eslint]
+![ESLint](https://img.shields.io/badge/tools-eslint-4B32C3?logoWidth=30&labelColor=black&style=for-the-badge&logo=eslint)
 &emsp;
-![Bootstrap][bootstrap]
+![Bootstrap](https://img.shields.io/badge/tools-bootstrap-563D7C?logo=bootstrap&logoWidth=30&labelColor=black&style=for-the-badge)
 &emsp;
 ![Heroku](https://img.shields.io/badge/tools-heroku-430098?logoWidth=30&labelColor=black&style=for-the-badge&logo=heroku)
 
@@ -87,6 +86,3 @@
 [Email]: https://img.shields.io/badge/Email-ridayshah2001@gmail.com-ff69b4?logo=gmail&logoColor=ff69b4&logoWidth=30&labelColor=0080ff&link=mailto:ridayshah2001@gmail.com
 [Twitter]: https://img.shields.io/badge/Twitter-@RidayShah-ff69b4?logo=twitter&logoColor=ff69b4&logoWidth=25&labelColor=0080ff&link=https://twitter.com/RidayShah
 [VSC]: https://img.shields.io/badge/editor-visual%20studio%20code%20--%20insiders-2db261?logoWidth=30&labelColor=black&style=for-the-badge&logo=visual-studio-code&logoColor=2db261
-
-[ESLint]: https://img.shields.io/badge/tools-eslint-4B32C3?logoWidth=30&labelColor=black&style=for-the-badge&logo=eslint&logoColor=4B32C3
-[Bootstrap]: https://img.shields.io/badge/tools-bootstrap-563D7C?logo=bootstrap&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=563D7C
