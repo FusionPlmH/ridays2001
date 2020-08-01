@@ -21,9 +21,18 @@
 <br>
 
 ## 📱 Connect with Me
-[![Discord - Riday 💙#7468][discord]](https://discord.gg/muuyMD9 "My Discord Server.")
-[![Email - ridayshah2001@gmail.com][email]](mailto:ridays2001@gmail.com "My Email.")
-[![Twitter - @RidayShah][twitter]](https://twitter.com/RidayShah "@RidayShah")
+
+<div align='center'>
+    <a href='https://discord.gg/muuyMD9'>
+        <img src='https://img.shields.io/badge/Discord-Riday%20%F0%9F%92%99%237468-ff69b4?logo=discord&logoColor=ff69b4&logoWidth=30&labelColor=0080ff&link=https://discord.gg/muuyMD9' alt='Discord - Riday 💙#7468'>
+    </a>
+    <a href='mailto:ridayshah2001@gmail.com'>
+        <img src='https://img.shields.io/badge/Email-ridayshah2001@gmail.com-ff69b4?logo=gmail&logoColor=ff69b4&logoWidth=30&labelColor=0080ff&link=mailto:ridayshah2001@gmail.com' alt='ridayshah2001@gmail.com'>
+    </a>
+    <a href='https://twitter.com/RidayShah'>
+        <img src='https://img.shields.io/badge/Twitter-@RidayShah-ff69b4?logo=twitter&logoColor=ff69b4&logoWidth=25&labelColor=0080ff&link=https://twitter.com/RidayShah' alt='Twitter - @RidayShah'>
+    </a>
+</div>
 
 <br>
 
@@ -77,6 +86,4 @@
 </div>
 
 <!-- General Links -->
-[Discord]: https://img.shields.io/badge/Discord-Riday%20%F0%9F%92%99%237468-ff69b4?logo=discord&logoColor=ff69b4&logoWidth=30&labelColor=0080ff&link=https://discord.gg/muuyMD9
-[Email]: https://img.shields.io/badge/Email-ridayshah2001@gmail.com-ff69b4?logo=gmail&logoColor=ff69b4&logoWidth=30&labelColor=0080ff&link=mailto:ridayshah2001@gmail.com
-[Twitter]: https://img.shields.io/badge/Twitter-@RidayShah-ff69b4?logo=twitter&logoColor=ff69b4&logoWidth=25&labelColor=0080ff&link=https://twitter.com/RidayShah
+[Email]: 
