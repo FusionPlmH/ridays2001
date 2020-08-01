@@ -30,7 +30,7 @@
 ## 🔧 Tools and Technologies
 ![Visual Studio Code - Insiders][vsc]
 &emsp;
-![Firefox Developer Edition](./media/firefox.svg)
+![Firefox Developer Edition](https://raw.githubusercontent.com/ridays2001/ridays2001/main/media/firefox.svg)
 &emsp;
 
 <p style='line-height:0.4em'>
@@ -54,7 +54,7 @@
 &emsp;
 ![CSS](https://img.shields.io/badge/code-css-1572B6?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=1572B6)
 &emsp;
-![Pug](./media/pug.svg)
+![Pug](https://raw.githubusercontent.com/ridays2001/ridays2001/main/media/pug.svg)
 &emsp;
 ![PHP](https://img.shields.io/badge/code-php-777BB4?logoWidth=30&labelColor=black&style=for-the-badge&logo=php)
 &emsp;
