@@ -67,7 +67,7 @@
     &emsp;
     <img src='https://img.shields.io/badge/code-c%20programming-A8B9CC?logoWidth=30&labelColor=black&style=for-the-badge&logo=c' alt='C Programming'>
     &emsp;
-    <img src='https://img.shields.io/badge/code-c%2B%2B-00599C?logoWidth=30&labelColor=black&style=for-the-badge&logo=c%2B%2B&logoColor=00599C' alt='C++'>
+    <img src='https://img.shields.io/badge/code-c%2B%2B-00599C?logoWidth=30&labelColor=black&style=for-the-badge&logo=c%2B%2B' alt='C++'>
     &emsp;
     <p style='line-height:0.4em'>
         <br>
