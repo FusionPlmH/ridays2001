@@ -84,6 +84,3 @@
     &emsp;
     <img src='https://img.shields.io/badge/tools-heroku-430098?logoWidth=30&labelColor=black&style=for-the-badge&logo=heroku' alt='Heroku'>
 </div>
-
-<!-- General Links -->
-[Email]: 
