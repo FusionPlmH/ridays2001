@@ -7,7 +7,7 @@
     <br>
     👤 Occupation - Student
     <br>
-    🏷 &ldquo; I am an aspiring web developer. &rdquo;
+    💭 &ldquo; I am an aspiring web developer. &rdquo;
 </div>
 
 <br>
