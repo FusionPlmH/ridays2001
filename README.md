@@ -13,9 +13,9 @@
 <br>
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=ridays2001&hide=prs,issues&theme=tokyonight&show_icons=true&count_private=true&line_height=35' alt='My Profile Stats.'>
+    <img src='https://riday-ghstats.vercel.app/api?username=ridays2001&hide=prs,issues&theme=tokyonight&show_icons=true&count_private=true&line_height=35' alt='My Profile Stats.'>
     <br>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ridays2001&theme=tokyonight&layout=compact' alt='My Top Languages'>
+    <img src='https://riday-ghstats.vercel.app/api/top-langs/?username=ridays2001&theme=tokyonight&layout=compact' alt='My Top Languages'>
 </div>
 
 <br>
